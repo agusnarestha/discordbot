@@ -24,11 +24,13 @@ Bot Discord ini dibuat dengan JS dan mengimplementasikan Slash Commands
 - /ping : Melakukan ping ke server bot
 - /serverinfo : Informasi tentang server
 - /userinfo : Informasi tentang user
+- **Coming Soon**
 
 #### Admin Only
 
 - /reload events : Memuat ulang events
 - /reload commands : Memuat ulang commands
+- **Coming Soon**
 
 #### Dibuat dengan :
 
@@ -103,6 +105,7 @@ Untuk menjalankan bot dengan perintah `node .`
   ![9][img8]
 - Kemudian pilih server yang anda inginkan kemudian klik "Continue"
   ![10][img9]
+- Jika bot anda sudah online berarti sudah siap dipakai
 
 ### Discord WMGS
 
