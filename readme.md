@@ -51,16 +51,16 @@ Mengunduh dependency menggunakan perintah `npm install`
 Untuk `token` bisa dilihat pada bagian [Discord Developer Portal](https://discord.com/developers/applications/), atau bagi yang belum bisa mengikuti langkah berikut :
 
 - Klik tombol "New Application"
-  [1][img1]
+  ![1][img1]
 - Isi sesuai nama bot yang diinginkan
-  [2][img2]
+  ![2][img2]
 - Klik bagian OAuth2 dan token bot anda siap untuk dicopy
-  [3][img3]
+  ![3][img3]
   Untuk `cliendId` bisa dilihat pada bagian Discord
 
 - Buka aplikasi Discord pada PC/Laptop anda
 - Klik kanan profil discord anda lalu "Copy ID"
-  [4][img4]
+  ![4][img4]
 
 ### Jalankan Bot
 
