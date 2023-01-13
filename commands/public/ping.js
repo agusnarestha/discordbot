@@ -21,7 +21,6 @@ module.exports = {
     if (100 > client.ws.ping || 100 === client.ws.ping) {
       color = "Green";
     } else if (300 > client.ws.ping && 300 === client.ws.ping) {
-      ping = "<:medium:1063004174750580736>";
       color = "Orange";
     } else if (500 > client.ws.ping || 500 === client.ws.ping) {
       color = "Red";
