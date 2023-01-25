@@ -107,8 +107,12 @@ Untuk menjalankan bot dengan perintah `node .`
   ![10][img9]
 - Jika bot anda sudah online berarti sudah siap dipakai
 
-### Discord WMGS
+## Discord WMGS
 
 Join Our Discord Server
 
 <a href="https://discord.gg/d47cRDj"><img src="https://invidget.switchblade.xyz/d47cRDj"/></a>
+
+## License
+
+[MIT](https://github.com/agusnarestha/discordbot/blob/main/LICENSE.md)
