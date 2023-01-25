@@ -115,4 +115,4 @@ Join Our Discord Server
 
 ## License
 
-[MIT](https://github.com/agusnarestha/discordbot/blob/main/LICENSE.md)
+[MIT](https://github.com/agusnarestha/discordbot/blob/master/LICENSE.md)
