@@ -11,14 +11,14 @@ module.exports = {
   data: new SlashCommandBuilder()
     .setName("dota2")
     .setDescription("Shows your stats from Dota 2")
-    .addStringOption((option) =>
-      option.setName("search").setDescription("Dota 2 id").setRequired(true)
+    .addIntegerOption((options) =>
+      options.setName("search").setDescription("Dota 2 id").setRequired(true)
     ),
   /**
    * @param { ChatInputCommandInteraction } interaction
    */
   async execute(interaction) {
-    const search = interaction.options.getString("search");
+    const search = interaction.options.getInteger("search");
     await interaction.deferReply();
     const request = require("request");
 
